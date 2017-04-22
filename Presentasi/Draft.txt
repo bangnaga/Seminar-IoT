@@ -1,0 +1,15 @@
+Membuat Tunnel 	:	ngrok.io	
+
+Ref Tambahan:	
+•	https://inconshreveable.com/09-25-2013/ngrok-tunnels-better-faster-stronger/
+
+Membuat MQTT 		:	cloudmqtt.com
+
+Set  PAAS	:	Heroku	
+
+
+
+Tunnel :	https://github.com/bangnaga/ngrok
+
+
+Belajar Git	:	http://rogerdudler.github.io/git-guide/index.id.html
